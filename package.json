@@ -1,6 +1,6 @@
 {
   "name": "lupa-table",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Display a Lupa dataset in a table",
   "repository": "git@github.com:Vivalldi/lupa-table.git",
   "author": "Tyler Cosgrove <tyler@mondobrain.com>",
